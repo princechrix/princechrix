@@ -5,9 +5,9 @@
 
 <span style="display: flex; align-items: center;">
   <div>
-    Hey there 👋
+    Hey there 👋 <br> I’m Prince Christian, a Junior full-stack Developer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
-    I’m Prince Christian, a Junior full-stack Developer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+    
   </div>
   <span style="margin-left: 1rem;">
     <a href="https://github.com/princechrix">
