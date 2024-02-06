@@ -3,18 +3,18 @@
 [![Visits Badge](https://badges.pufler.dev/visits/princechrix/princechrix)](https:braydoncoyer.dev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ishimwe-prince-christian-514098294/)
 
-<div style="display: flex; align-items: center;">
-  <div>
+<span style="display: flex; align-items: center;">
+  <span>
     Hey there 👋
 
     I’m Prince Christian, a Junior full-stack Developer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
-  </div>
+  </span>
   <span style="margin-left: 1rem;">
     <a href="https://github.com/princechrix">
       <img style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=princechrix&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Prince's GitHub Stats" />
     </a>
   </span>
-</div>
+</span>
 
 
 
