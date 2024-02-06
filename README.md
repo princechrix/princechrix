@@ -7,7 +7,7 @@ Hey there 👋
 
 I’m Prince Christian, a Junior full-stack Developer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 <a href="https://github.com/princechrix">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=princechrix&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Prince's GitHub Stats" />
+  <img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=princechrix&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Prince's GitHub Stats" />
 </a>
 
 
