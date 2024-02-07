@@ -1,6 +1,6 @@
 ![Prince Chris's GitHub Banner](./GitHubHeader.png)
 
-[![Visits Badge](https://badges.pufler.dev/visits/princechrix/princechrix)](https:braydoncoyer.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/princechrix/princechrix)](https://princechristian.vercel.app/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ishimwe-prince-christian-514098294/)
  
 <div style="display: flex; align-items: center; justify-content: space-between;">
