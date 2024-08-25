@@ -10,8 +10,7 @@
 
 Want to know more about me? [Check out my portfolio.](https://princechristian.vercel.app/)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=princechrix&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Prince's GitHub Stats" />
-   
+
       
     
 <br>
@@ -19,8 +18,10 @@ Want to know more about me? [Check out my portfolio.](https://princechristian.ve
 ## 💼 Skills
 
 
-
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+<div style="wdith:100%; display:flex; justify-content: space-between; align-items: center;">
+ <div>
+  
+  ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
@@ -30,6 +31,18 @@ Want to know more about me? [Check out my portfolio.](https://princechristian.ve
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+
+ </div>
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=princechrix&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Prince's GitHub Stats" />
+   
+ 
+</div>
+
+
+
+
 
 <details>
 <summary>More Skills</summary>
