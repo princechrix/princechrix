@@ -42,7 +42,7 @@ Want to know more about me? [Check out my portfolio.](https://princechristian.ve
 
  <h1>More Skills </h1>
 
- <div>
+ <div style="display: flex; justify-content: space-between; ">
   <div>
    left
   </div>
