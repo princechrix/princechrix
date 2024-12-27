@@ -32,6 +32,10 @@ Want to know more about me? [Check out my portfolio.](https://princechristian.ve
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
+
+
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/feb86c1f17e7df407f8f760f33604c48d0d433fac2f8056e9558357c33b1f61e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7072696e636563687269782673686f775f69636f6e733d74727565266c696e655f6865696768743d323726636f756e745f707269766174653d74727565267469746c655f636f6c6f723d66666666666626746578745f636f6c6f723d6339636163632669636f6e5f636f6c6f723d3441423039372662675f636f6c6f723d314132423334"><img align="right" src="https://camo.githubusercontent.com/feb86c1f17e7df407f8f760f33604c48d0d433fac2f8056e9558357c33b1f61e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d7072696e636563687269782673686f775f69636f6e733d74727565266c696e655f6865696768743d323726636f756e745f707269766174653d74727565267469746c655f636f6c6f723d66666666666626746578745f636f6c6f723d6339636163632669636f6e5f636f6c6f723d3441423039372662675f636f6c6f723d314132423334" alt="Prince's GitHub Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=princechrix&amp;show_icons=true&amp;line_height=27&amp;count_private=true&amp;title_color=ffffff&amp;text_color=c9cacc&amp;icon_color=4AB097&amp;bg_color=1A2B34" style="max-width: 100%;"></a>
  </div>
 </div>
 
@@ -41,15 +45,7 @@ Want to know more about me? [Check out my portfolio.](https://princechristian.ve
 
 
  <h1>More Skills </h1>
-
- <div style="display: flex; justify-content: space-between; ">
-  <div>
-   left
-  </div>
-
-  <div>right</div>
-  
- </div>
+ 
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
