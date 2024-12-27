@@ -44,8 +44,8 @@ Want to know more about me? [Check out my portfolio.](https://princechristian.ve
 
 
 
-<details>
-<summary>More Skills</summary>
+
+<p>More Skills</p>
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
@@ -63,5 +63,5 @@ Want to know more about me? [Check out my portfolio.](https://princechristian.ve
 ![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 
-</details>
+
 
