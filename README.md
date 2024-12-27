@@ -44,7 +44,7 @@ Want to know more about me? [Check out my portfolio.](https://princechristian.ve
 
 
 
- <h1>More Skills </h1>
+ <span>More Skills </span>
  
 <br>
 
