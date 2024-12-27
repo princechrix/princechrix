@@ -45,7 +45,7 @@ Want to know more about me? [Check out my portfolio.](https://princechristian.ve
 
 
 
-<p>More Skills</p>
+# More Skills
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
