@@ -1,8 +1,21 @@
 ![Prince Chris's GitHub Banner](./GitHubHeader.png)
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <span>
-    Hey there 👋 <br> I’m Prince Christian, a full-stack Developer. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. </span>
-</div> 
+# 👋 Hi there, I'm Prince Chrix!
 
-Want to know more about me? [Check out my portfolio.](https://princechristian.vercel.app/)
+Welcome to my GitHub! I'm a passionate **frontend developer** from Rwanda, currently working at Innovative VAS (IVAS). I love creating beautiful and functional user interfaces that make a real impact.
+
+## 💻 Skills
+
+- **Languages & Frameworks:** JavaScript, TypeScript, Next.js, React, Node.js
+- **Styling & Design:** Tailwind CSS, Figma
+- **CMS & Integration:** Sanity, RESTful APIs
+- **Mobile:** React Native
+- **Other:** Git & GitHub, Notion workflows, project management
+
+I enjoy building solutions that improve user experience and solve real-world problems — from health systems to survey platforms and beyond.
+
+---
+
+✨ **Feel free to explore my projects and connect!**
+
+
