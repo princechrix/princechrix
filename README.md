@@ -1,4 +1,4 @@
 ![Prince Chris's GitHub Banner](./GitHubHeader.png)
-# 👋 Yo!
+# 👋 Yoo!
 
-Thanks for stopping by. Dive in and enjoy the code vibes. ✌️
+Welcome to my Github Account, take your time and explore my public repos✌️
